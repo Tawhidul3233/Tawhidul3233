@@ -1,5 +1,5 @@
-### Hi there 👋, I am Tawhidul islam
-#### Frontend developer (MERN)
+# Hi there 👋, I am Tawhidul islam
+## Frontend developer (MERN)
 ![Frontend developer (MERN)](https://media.licdn.com/dms/image/D5616AQFIJd3LWmj3fQ/profile-displaybackgroundimage-shrink_350_1400/0/1670505083455?e=1689811200&v=beta&t=d6ZwlyjEyQbyb4ypv1lxHeQKrSJVARzjN7JSl8uIOZQ)
 
 A junior MERN Stack developer. Expertise in front-end and back-end development using JavaScript, ES6, React js, Node 
